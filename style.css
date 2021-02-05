@@ -9,3 +9,6 @@ header {
 #featured-property {
   text-align: center;
 }
+nav a {
+  padding: 0 10 0 10;
+}
