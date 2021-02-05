@@ -21,3 +21,6 @@ figcaption {
   margin: auto;
   padding-top: 10px;
 }
+div {
+  float: left;
+}
