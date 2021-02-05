@@ -16,3 +16,6 @@ nav a {
 figcaption {
   font-size: .3em;
 }
+#featured-property p {
+  width: 800px;
+}
